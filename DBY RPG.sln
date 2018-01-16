@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBY RPG", "Assembly-CSharp-firstpass.csproj", "{D1BF8518-ED78-1C6A-7921-B2142B1B1C3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBY RPG", "Assembly-CSharp-Editor-firstpass.csproj", "{BD7DB1E3-2750-968B-1848-0FA922040C80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1BF8518-ED78-1C6A-7921-B2142B1B1C3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1BF8518-ED78-1C6A-7921-B2142B1B1C3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1BF8518-ED78-1C6A-7921-B2142B1B1C3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1BF8518-ED78-1C6A-7921-B2142B1B1C3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD7DB1E3-2750-968B-1848-0FA922040C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD7DB1E3-2750-968B-1848-0FA922040C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD7DB1E3-2750-968B-1848-0FA922040C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD7DB1E3-2750-968B-1848-0FA922040C80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
