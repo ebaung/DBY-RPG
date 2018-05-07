@@ -1,8 +1,8 @@
-﻿<Properties StartupConfiguration="{0186C70C-3F22-9307-986D-7AD07897AEE4}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Standard Assets/Cameras/Scripts/FreeLookCam.cs">
+﻿<Properties StartupConfiguration="{9C3A5DC7-CB45-CFC8-1D45-BE827B2CD184}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Cursor.cs">
     <Files>
       <File FileName="Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/CameraFollow.cs" Line="21" Column="1" />
-      <File FileName="Assets/Standard Assets/Cameras/Scripts/FreeLookCam.cs" Line="1" Column="1" />
+      <File FileName="Assets/Cursor.cs" Line="30" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.DBY_220RPG.Editor.Plugins PreferredExecutionTarget="Unity.Editor" />
@@ -12,4 +12,6 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor-firstpass PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DBY_220RPG PreferredExecutionTarget="Unity.Editor" />
 </Properties>
